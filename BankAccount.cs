@@ -26,12 +26,12 @@ public class BankAccount
             throw new ArgumentException("What are you doing?!!!!");
         }
         
-        this.Balance += amount;   //bc this is under makedeposit calss its saying add makedeposit (class that i'm in) to balance.
+        this.Balance += amount;   //bc this is under MakeDeposit class its saying add MakeDeposit (class that i'm in) to balance.
     }
 
 
 
-    
+
 }
 //public is so that this can be used outside the namespace, public, private(only used with it's neighbors)
 //can be imported anywhere, protected (certain sets can access, not public)
