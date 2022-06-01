@@ -26,7 +26,7 @@ Console.WriteLine($"The sum is {sum}"); //70
 Console.WriteLine($"what is {sum/3}"); //23
 Console.WriteLine($"what is 70/3 { div }");// 2.5
 Console.WriteLine($"What is the max of int {int.MaxValue}"); //2147483647
-Console.WriteLine("--------------------------------List-----------------");
+Console.WriteLine("--------------------------------ARRAY-----------------");
 
 var firstArr = new int [5] {-69, 46, 10, 1, 100};
 //int[] arr2 =new int[10];
@@ -41,3 +41,20 @@ for(var i = 0; i < firstArr.Length; i++){
 foreach( var el in firstArr){
     Console.WriteLine($"The value is {el}");
 }
+
+Console.WriteLine("------------------------------LIST--------------------");
+//arrays and lists can only have one data type
+
+//List<int> list = new List<int>(); <-- proper way to write
+var list = new List<int>();
+
+list.AddRange(firstArr); //
+list.Add(1000);
+list.Add(10001);
+list.Add(10002);
+
+foreach( var el in list){
+    Console.WriteLine($"The value is {el}");
+}
+
+Console.WriteLine($"The first element is {list[0]}");
