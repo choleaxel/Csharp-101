@@ -18,7 +18,7 @@ int a = 10, b = 20, c = 40;
 
 double d = 5.0, e = 2.0;
 
-double div = d / e; //double precision point divide
+double div = d / e; //double precision point, divide
 
 int sum = a + b + c; 
 
