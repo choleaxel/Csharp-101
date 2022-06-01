@@ -1,0 +1,15 @@
+/Users/deepthought/code/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/deepthought/code/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/deepthought/code/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/deepthought/code/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/deepthought/code/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/deepthought/code/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
